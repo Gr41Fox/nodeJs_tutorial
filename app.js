@@ -1,6 +1,6 @@
 var http = require("http");
 var fs = require("fs");
-
+//console.log(fs);
 http
   .createServer(function (req, res) {
     //const text = fs.readFileSync('./content/big.txt', 'utf8')
